@@ -27,3 +27,10 @@
 - Soy una persona dedicada y tengo una hija. Me gusta la programación y todo lo relacionado a la tecnologia. Gracias a mi iniciativa autodidacta, considero que puedo aportar valor a un proyecto y seguir desarrollándome profesionalmente.
 Como persona organizada y con una gran motivación, soy capaz de adaptarme a cualquier circunstancia y dar siempre lo mejor de mí en cualquier proyecto, al mismo tiempo que me esfuerzo por trabajar en equipo y fomentar valores como los del compañerismo. 
  
+ ## Instalación
+- Debes descargar o clonar el respositorio
+- `git clone https://github.com/Sinches-Hugo-Ivan/Kimetsu-no-Yaiba.git`
+- Entra en el directorio Kimetsu-no-Yaiba
+- Ejecutamos `npm install express`
+- En la barra de direcciones del navegador de nuestra preferencia escribimos http://localhost:3030
+- Ejecutamos `nodemon`
